@@ -1,8 +1,5 @@
 {
   "name": "@node-lambdas/random",
   "version": "1.0.0",
-  "type": "module",
-  "publishConfig": {
-    "access": "public"
-  }
+  "type": "module"
 }
